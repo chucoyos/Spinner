@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="division">Division</string>
+    <string name="input_1">Ingrese Primer Valor</string>
+    <string name="input_2">Ingrese Segundo Valor</string>
+    <string name="calcular">Calcular</string>
+    <string name="button">button</string>
+    <string name="error">Este campo no puede estar vacío</string>
+    <string name="division_error">No es posible dividir entre 0</string>
+</resources>
